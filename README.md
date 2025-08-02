@@ -156,6 +156,7 @@ print("Feature Importance:", rf_model.feature_importances_)
 ```
 
 **Image – Random Forest Feature Importance** 
+
 <img width="447" height="406" alt="Part 2 3 Pairplot – explores multi-variable relationships and gender separation" src="https://github.com/user-attachments/assets/32c91d91-ebd5-4e94-92e6-93db5a247374" />
 
 ---
@@ -168,6 +169,7 @@ print("Feature Importance:", rf_model.feature_importances_)
 * Drill-down options and AI visuals
 
 **Image – Power BI Dashboard Structure**
+
 <img width="571" height="312" alt="Part 3 Power BI Dashboard Structure (3)" src="https://github.com/user-attachments/assets/5f9437e9-89eb-4f43-8e6c-c06d2ff8aea4" />
 
 ---
@@ -178,6 +180,7 @@ print("Feature Importance:", rf_model.feature_importances_)
 * Highlighted gender differences and risk clusters
 
 **Image – Global Trend Chart** 
+
 <img width="500" height="267" alt="Global trend" src="https://github.com/user-attachments/assets/9c9afcef-6f5c-43c8-b152-ab8c03cad373" />
 
 ---
@@ -190,7 +193,9 @@ print("Feature Importance:", rf_model.feature_importances_)
 * Clustering identified high-risk periods, and forecasts indicate future increases
 
 **Image – Risk Level Distribution** 
-<img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage" src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
+<img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage" 
+  
+  src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
 
 ---
 
