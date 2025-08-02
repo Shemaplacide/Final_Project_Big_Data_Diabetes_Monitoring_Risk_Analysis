@@ -140,7 +140,8 @@ rmse = mean_squared_error(y, y_pred, squared=False)
 
 **🖼 Image – Regression Prediction Plot**
 
-<img width="369" height="362" alt="Part 2 3 2 Trained both models (Clustering + Regression)" src="https://github.com/user-attachments/assets/aca98c5a-50a0-4554-ba3b-a32dc27552eb" />
+<img width="431" height="273" alt="Part 2 6 1 Incorporate Innovation Ensemble Technique for Prediction (2)" src="https://github.com/user-attachments/assets/ac0a4939-df5c-40e3-a83b-76acf376bc2e" />
+
 
 ---
 
