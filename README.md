@@ -49,7 +49,8 @@ This project is divided into four parts:
 - Verified and handled outliers.  
 
 **Image – Cleaned Dataset Preview:**  
-*(Insert image of cleaned dataset sample here)*
+*<img width="782" height="290" alt="Cleaned Dataset" src="https://github.com/user-attachments/assets/937f9401-731b-406d-8e94-ae84a83a587e" />
+*
 
 ---
 
@@ -60,11 +61,13 @@ This project is divided into four parts:
 
 **Image – Correlation Heatmap**  
 - Shows numerical strength of relationships (e.g., prevalence vs year).  
-*(Insert correlation heatmap image here)*  
+*<img width="341" height="272" alt="Part 2 3 Correlation heatmap – numerical strength of relationships (e g , prevalence vs year)" src="https://github.com/user-attachments/assets/b60cd041-6ede-49e1-bb37-6353cd350468" />
+*  
 
 **Image – Pairplot**  
 - Explores multi-variable relationships and gender separation.  
-*(Insert pairplot image here)*  
+*<img width="447" height="406" alt="Part 2 3 Pairplot – explores multi-variable relationships and gender separation" src="https://github.com/user-attachments/assets/cbdef612-2ba4-4642-8457-7388368955f6" />
+*  
 
 ---
 
@@ -75,11 +78,13 @@ This project is divided into four parts:
 
 **Image – Clustering Visualization**  
 - Shows three distinct risk groups based on prevalence and treatment coverage.  
-*(Insert clustering visualization image here)*  
+*<img width="369" height="362" alt="Part 2 3 2 Trained both models (Clustering + Regression)" src="https://github.com/user-attachments/assets/34aeba50-0cee-4eab-be67-6032dfd68fd8" />
+*  
 
 **Image – Regression Prediction Plot**  
 - Shows model fit and prediction accuracy.  
-*(Insert regression prediction plot here)*  
+*<img width="369" height="362" alt="Part 2 3 2 Trained both models (Clustering + Regression)" src="https://github.com/user-attachments/assets/aca98c5a-50a0-4554-ba3b-a32dc27552eb" />
+*  
 
 ---
 
@@ -98,7 +103,8 @@ This project is divided into four parts:
 
 **Image – Random Forest Feature Importance**  
 - Shows which features (Year, Gender) impact predictions most.  
-*(Insert feature importance image here)*  
+*<img width="447" height="406" alt="Part 2 3 Pairplot – explores multi-variable relationships and gender separation" src="https://github.com/user-attachments/assets/32c91d91-ebd5-4e94-92e6-93db5a247374" />
+*  
 
 ---
 
@@ -112,7 +118,8 @@ This project is divided into four parts:
 
 **Image – Power BI Dashboard Structure**  
 - Layout of slicers, KPIs, charts, and AI visuals.  
-*(Insert Power BI structure screenshot here)*  
+*<img width="571" height="312" alt="Part 3 Power BI Dashboard Structure (3)" src="https://github.com/user-attachments/assets/5f9437e9-89eb-4f43-8e6c-c06d2ff8aea4" />
+*  
 
 ---
 
@@ -122,7 +129,8 @@ This project is divided into four parts:
 
 **Image – Global Trend Chart**  
 - Shows how diabetes prevalence increased from 1990 to 2022.  
-*(Insert global trend image here)*  
+*<img width="500" height="267" alt="Global trend" src="https://github.com/user-attachments/assets/9c9afcef-6f5c-43c8-b152-ab8c03cad373" />
+  
 
 ---
 
@@ -134,7 +142,8 @@ This project is divided into four parts:
 
 **Image – Risk Level Distribution**  
 - Shows count of records per risk level (Low, Medium, High).  
-*(Insert risk level distribution image here)*  
+*<img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage" src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
+*  
 
 ---
 
@@ -180,13 +189,20 @@ Special thanks to **Instructor: Maniraguha Eric** for guidance during the **Intr
 ---
 
 ## **Images (Replace placeholders with actual images)**
-- `images/cleaned_dataset.png`
-- `images/correlation_heatmap.png`
-- `images/pairplot.png`
-- `images/clustering.png`
-- `images/regression_prediction.png`
-- `images/randomforest_feature_importance.png`
-- `images/powerbi_structure.png`
-- `images/global_trend.png`
-- `images/risk_level_distribution.png`
+- `<img width="782" height="290" alt="Cleaned Dataset" src="https://github.com/user-attachments/assets/5389316d-a37d-4d63-ad8e-6ab6f5d043f5" />
+`
+- `<img width="341" height="272" alt="Part 2 3 Correlation heatmap – numerical strength of relationships (e g , prevalence vs year)" src="https://github.com/user-attachments/assets/4317def9-b842-49da-ae64-038787d2e0b2" />
+`
+- `<img width="447" height="406" alt="Part 2 3 Pairplot – explores multi-variable relationships and gender separation" src="https://github.com/user-attachments/assets/0ef83ba2-8422-4045-b5bb-33d9f1e44dd5" />
+`
+- `<img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage" src="https://github.com/user-attachments/assets/d5cb72a0-8c5b-4b44-9f1c-779ab0c213ee" />
+`
+- `<img width="496" height="257" alt="Part 2 4 1 Evaluate the Model (Silhouette Score and Regression RMSE ,R² )" src="https://github.com/user-attachments/assets/409ee584-f3d1-4d30-8dfb-a02a5e17ddba" />
+`
+- `<img width="571" height="312" alt="Part 3 Power BI Dashboard Structure (3)" src="https://github.com/user-attachments/assets/8c06faab-03ba-4469-8f7c-64ba85ee0b97" />
+`
+- `<img width="500" height="267" alt="Global trend" src="https://github.com/user-attachments/assets/4be21a9b-4525-4521-aa79-d7de9c662977" />
+`
+- `![Uploading Part 2 3.1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence & treatment coverage..png…]()
+`
 
