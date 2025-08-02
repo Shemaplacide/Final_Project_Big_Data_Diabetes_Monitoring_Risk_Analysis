@@ -81,7 +81,8 @@ This project is divided into four parts:
 - Standardized categorical values (`Sex`, `Age`) and corrected data types.  
 - Verified and handled outliers.  
 
-**🖼 Image – Cleaned Dataset Preview:**  
+**🖼 Image – Cleaned Dataset Preview:** 
+
 <img width="782" height="290" alt="Cleaned Dataset" src="https://github.com/user-attachments/assets/937f9401-731b-406d-8e94-ae84a83a587e" />
 
 ---
@@ -92,9 +93,11 @@ This project is divided into four parts:
 - Explored multi-variable relationships.
 
 **🖼 Image – Correlation Heatmap**  
+
 <img width="341" height="272" alt="Part 2 3 Correlation heatmap – numerical strength of relationships (e g , prevalence vs year)" src="https://github.com/user-attachments/assets/b60cd041-6ede-49e1-bb37-6353cd350468" />  
 
 **🖼 Image – Pairplot**  
+
 <img width="447" height="406" alt="Part 2 3 Pairplot – explores multi-variable relationships and gender separation" src="https://github.com/user-attachments/assets/cbdef612-2ba4-4642-8457-7388368955f6" />  
 
 ---
@@ -131,9 +134,13 @@ y_pred = model.predict(X)
 rmse = mean_squared_error(y, y_pred, squared=False)
 ```
 
-**🖼 Image – Clustering Visualization** <img width="369" height="362" alt="Part 2 3 2 Trained both models (Clustering + Regression)" src="https://github.com/user-attachments/assets/34aeba50-0cee-4eab-be67-6032dfd68fd8" />
+**🖼 Image – Clustering Visualization** 
 
-**🖼 Image – Regression Prediction Plot** <img width="369" height="362" alt="Part 2 3 2 Trained both models (Clustering + Regression)" src="https://github.com/user-attachments/assets/aca98c5a-50a0-4554-ba3b-a32dc27552eb" />
+<img width="369" height="362" alt="Part 2 3 2 Trained both models (Clustering + Regression)" src="https://github.com/user-attachments/assets/34aeba50-0cee-4eab-be67-6032dfd68fd8" />
+
+**🖼 Image – Regression Prediction Plot**
+
+<img width="369" height="362" alt="Part 2 3 2 Trained both models (Clustering + Regression)" src="https://github.com/user-attachments/assets/aca98c5a-50a0-4554-ba3b-a32dc27552eb" />
 
 ---
 
@@ -159,7 +166,9 @@ rf_model.fit(X, y)
 importances = rf_model.feature_importances_
 ```
 
-**🖼 Image – Random Forest Feature Importance** <img width="447" height="406" alt="Part 2 3 Pairplot – explores multi-variable relationships and gender separation" src="https://github.com/user-attachments/assets/32c91d91-ebd5-4e94-92e6-93db5a247374" />
+**🖼 Image – Random Forest Feature Importance**
+
+<img width="447" height="406" alt="Part 2 3 Pairplot – explores multi-variable relationships and gender separation" src="https://github.com/user-attachments/assets/32c91d91-ebd5-4e94-92e6-93db5a247374" />
 
 ---
 
@@ -170,7 +179,9 @@ importances = rf_model.feature_importances_
 * Interactive dashboard with Year, Gender, and Risk Level slicers.
 * Drill-down and AI visuals included.
 
-**🖼 Image – Power BI Dashboard Structure** <img width="571" height="312" alt="Part 3 Power BI Dashboard Structure (3)" src="https://github.com/user-attachments/assets/5f9437e9-89eb-4f43-8e6c-c06d2ff8aea4" />
+**🖼 Image – Power BI Dashboard Structure**
+
+<img width="571" height="312" alt="Part 3 Power BI Dashboard Structure (3)" src="https://github.com/user-attachments/assets/5f9437e9-89eb-4f43-8e6c-c06d2ff8aea4" />
 
 ---
 
@@ -179,7 +190,13 @@ importances = rf_model.feature_importances_
 * Trends in diabetes prevalence and treatment coverage.
 * Gender-based comparisons and risk clusters.
 
-**🖼 Image – Global Trend Chart** <img width="500" height="267" alt="Global trend" src="https://github.com/user-attachments/assets/9c9afcef-6f5c-43c8-b152-ab8c03cad373" />
+**🖼 Image – Global Trend Chart** 
+
+<img width="500" height="267" alt="Global trend" src="https://github.com/user-attachments/assets/9c9afcef-6f5c-43c8-b152-ab8c03cad373" />
+
+**🖼 Image – Part 3 Global Diabetes Monitoring & Risk Analysis (1990–2022)** 
+
+<img width="600" height="300" alt="Part 3 Global Diabetes Monitoring & Risk Analysis (1990–2022)" src="PUT-YOUR-IMAGE-LINK-HERE" />
 
 ---
 
@@ -190,7 +207,14 @@ importances = rf_model.feature_importances_
 * Treatment coverage improved but remains under 50%.
 * Risk clustering shows high-risk years increasing.
 
-**🖼 Image – Risk Level Distribution** <img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage" src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
+**🖼 Image – Risk Level Distribution**
+
+<img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage" src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
+
+**🖼 Image – Risk Level Distribution**
+
+<img width="585" height="329" alt="Part 3 Global Diabetes Monitoring   Risk Analysis (1990-2022)" src="https://github.com/user-attachments/assets/98724899-33b4-42e9-9a68-75ffda8b8654" />
+
 
 ---
 
@@ -240,7 +264,5 @@ By combining statistical analysis, machine learning, and powerful visualization 
 These insights not only reveal alarming trends but also emphasize the urgency for targeted public health interventions.
 
 Ultimately, this work highlights the potential of data-driven approaches in transforming healthcare monitoring and decision-making.
-
-```
 
 
