@@ -3,6 +3,9 @@
 In this section, we designed an interactive Power BI dashboard to communicate insights from our diabetes dataset.  
 The dashboard focuses on problem clarity, interactivity, appropriate visuals, design clarity, and innovation.
 
+**Power BI Dashboard Link:**  
+[View the Power BI Visuals](https://drive.google.com/drive/folders/1ooPgSdl84ZJ1eZ1fWkBAWivKnEx0fVcf?usp=drive_link)
+
 ---
 
 ## 1. Communicate the Problem & Insights Clearly
