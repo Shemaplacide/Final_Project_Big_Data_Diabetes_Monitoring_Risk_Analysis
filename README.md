@@ -4,6 +4,7 @@
 **🆔 Student ID:** 26497  
 **👨‍🏫 Course Instructor:** Maniraguha Eric  
 **📚 Course:** Introduction to Big Data Analytics  
+**👥 Group:** B  
 
 ---
 
@@ -155,7 +156,7 @@ rf_model.fit(X, y)
 print("Feature Importance:", rf_model.feature_importances_)
 ```
 
-**Image – Random Forest Feature Importance** 
+**Image – Random Forest Feature Importance**
 
 <img width="447" height="406" alt="Part 2 3 Pairplot – explores multi-variable relationships and gender separation" src="https://github.com/user-attachments/assets/32c91d91-ebd5-4e94-92e6-93db5a247374" />
 
@@ -179,7 +180,7 @@ print("Feature Importance:", rf_model.feature_importances_)
 * Showed trends in diabetes prevalence and treatment coverage
 * Highlighted gender differences and risk clusters
 
-**Image – Global Trend Chart** 
+**Image – Global Trend Chart**
 
 <img width="500" height="267" alt="Global trend" src="https://github.com/user-attachments/assets/9c9afcef-6f5c-43c8-b152-ab8c03cad373" />
 
@@ -192,10 +193,8 @@ print("Feature Importance:", rf_model.feature_importances_)
 * Treatment coverage improved but is still under 50% globally
 * Clustering identified high-risk periods, and forecasts indicate future increases
 
-**Image – Risk Level Distribution** 
-<img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage" 
-  
-  src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
+**Image – Risk Level Distribution** <img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage"  
+src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
 
 ---
 
@@ -228,3 +227,12 @@ Thanks to **Instructor: Maniraguha Eric** for guidance in the **Introduction to 
 3. Open `Diabetes_Risk_Analysis.pbix` in Power BI Desktop
 
 ---
+
+## ✅ Conclusion
+
+This project demonstrated how Big Data Analytics can be harnessed to monitor, understand, and forecast diabetes trends across the globe. By combining statistical analysis, machine learning, and powerful visualization tools, we identified key risk patterns and gaps in treatment coverage. These insights not only reveal alarming trends but also emphasize the urgency for targeted public health interventions.
+
+Ultimately, this work highlights the potential of data-driven approaches in transforming healthcare decision-making—ensuring that efforts to combat diabetes are efficient, focused, and globally informed.
+
+---
+
