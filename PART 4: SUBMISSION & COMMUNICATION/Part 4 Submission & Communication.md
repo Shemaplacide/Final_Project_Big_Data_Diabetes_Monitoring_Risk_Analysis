@@ -38,6 +38,7 @@ Anyone accessing the repository can easily:
 Communicate project results clearly to stakeholders.
 
 ### Actions Performed:
+- **Slide Deck Link**: [View PowerPoint Presentation](https://docs.google.com/presentation/d/1tpPkm4ouUMJ5j2fuXFrhY-X9NtyHOXZD/edit?usp=sharing&ouid=101928335647300964929&rtpof=true&sd=true)
 - **Slide Deck Structure**:
   1. **Project Introduction**:
      - Presented the problem context: the global diabetes prevalence challenge and why it matters.
