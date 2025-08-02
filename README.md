@@ -167,7 +167,9 @@ rf_model.fit(X, y)
 importances = rf_model.feature_importances_
 ```
 
+
 **🖼 Image – Random Forest Feature Importance**
+
 
 <img width="447" height="406" alt="Part 2 3 Pairplot – explores multi-variable relationships and gender separation" src="https://github.com/user-attachments/assets/32c91d91-ebd5-4e94-92e6-93db5a247374" />
 
@@ -179,8 +181,10 @@ importances = rf_model.feature_importances_
 
 * Interactive dashboard with Year, Gender, and Risk Level slicers.
 * Drill-down and AI visuals included.
+  
 
 **🖼 Image – Power BI Dashboard Structure**
+
 
 <img width="571" height="312" alt="Part 3 Power BI Dashboard Structure (3)" src="https://github.com/user-attachments/assets/5f9437e9-89eb-4f43-8e6c-c06d2ff8aea4" />
 
@@ -190,26 +194,34 @@ importances = rf_model.feature_importances_
 
 * Trends in diabetes prevalence and treatment coverage.
 * Gender-based comparisons and risk clusters.
+  
 
-**🖼 Image – Global Trend Chart** 
+**🖼 Image – Global Trend Chart**
+
 
 <img width="500" height="267" alt="Global trend" src="https://github.com/user-attachments/assets/9c9afcef-6f5c-43c8-b152-ab8c03cad373" />
 
+
 **🖼 Image – Part 3 Global Diabetes Monitoring & Risk Analysis (1990–2022)** 
+
 
 <img width="585" height="329" alt="Part 3 Global Diabetes Monitoring   Risk Analysis (1990-2022)" src="https://github.com/user-attachments/assets/8696e669-23b1-4d05-b732-686ba48b928e" />
 
 
 ---
 
+
 ### **3.3 Key Findings (from EDA + ML)** 📈
+
 
 * Diabetes prevalence tripled since 1990.
 * Men show slightly higher prevalence than women.
 * Treatment coverage improved but remains under 50%.
 * Risk clustering shows high-risk years increasing.
+  
 
 **🖼 Image – Risk Level Distribution**
+
 
 <img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage" src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
 
