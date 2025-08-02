@@ -168,6 +168,7 @@ print("Feature Importance:", rf_model.feature_importances_)
 
 * Interactive dashboard with slicers for Year, Gender, and Risk Level
 * Drill-down options and AI visuals
+  
 
 **Image – Power BI Dashboard Structure**
 
@@ -179,6 +180,7 @@ print("Feature Importance:", rf_model.feature_importances_)
 
 * Showed trends in diabetes prevalence and treatment coverage
 * Highlighted gender differences and risk clusters
+  
 
 **Image – Global Trend Chart**
 
@@ -193,7 +195,9 @@ print("Feature Importance:", rf_model.feature_importances_)
 * Treatment coverage improved but is still under 50% globally
 * Clustering identified high-risk periods, and forecasts indicate future increases
 
-**Image – Risk Level Distribution** <img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage"  
+**Image – Risk Level Distribution** 
+
+<img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage"  
 src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
 
 ---
