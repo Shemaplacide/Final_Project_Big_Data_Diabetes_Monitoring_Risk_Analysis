@@ -197,7 +197,8 @@ importances = rf_model.feature_importances_
 
 **🖼 Image – Part 3 Global Diabetes Monitoring & Risk Analysis (1990–2022)** 
 
-<img width="600" height="300" alt="Part 3 Global Diabetes Monitoring & Risk Analysis (1990–2022)" src="PUT-YOUR-IMAGE-LINK-HERE" />
+<img width="585" height="329" alt="Part 3 Global Diabetes Monitoring   Risk Analysis (1990-2022)" src="https://github.com/user-attachments/assets/8696e669-23b1-4d05-b732-686ba48b928e" />
+
 
 ---
 
@@ -211,10 +212,6 @@ importances = rf_model.feature_importances_
 **🖼 Image – Risk Level Distribution**
 
 <img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage" src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
-
-**🖼 Image – Risk Level Distribution**
-
-<img width="585" height="329" alt="Part 3 Global Diabetes Monitoring   Risk Analysis (1990-2022)" src="https://github.com/user-attachments/assets/98724899-33b4-42e9-9a68-75ffda8b8654" />
 
 
 ---
