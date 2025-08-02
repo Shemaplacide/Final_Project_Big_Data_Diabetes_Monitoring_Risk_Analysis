@@ -1,6 +1,3 @@
-Here is the **final Markdown** with your requested GitHub link and conclusion added, while keeping **all images unchanged**:
-
-````markdown
 # Diabetes Monitoring & Risk Analysis using Big Data Analytics
 
 **Student Name:** Shema Placide  
