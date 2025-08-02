@@ -1,7 +1,15 @@
 # Part 2: Python Analytics Tasks
 
-In this section, we applied Python (using Jupyter Notebook) to clean, analyze, model, and interpret our diabetes dataset.  
+In this section, we applied Python using **Visual Studio Code (VS Code)** as the development environment to clean, analyze, model, and interpret our diabetes dataset.  
 The steps followed are outlined below:
+
+**Datasets Used:**  
+- **Title 1:** Cleaned_Diabetes_Data  
+- **Title 2:** NCD_RisC_Lancet_2024_Diabetes_Crude_World  
+- **Format:** CSV (Structured Data)  
+- **Size:** 66 rows × 11 columns (for the crude world dataset)  
+- **Status:** Required preprocessing (column renaming, handling missing ISO values, standardizing text fields)  
+- **Dataset Link:** [View Dataset Files](https://drive.google.com/drive/folders/1PYxHFTrmxE-gt9Yaw-heFdWxYCK0k8iO?usp=drive_link)
 
 ---
 
@@ -99,8 +107,8 @@ The steps followed are outlined below:
   - `apply_transformations()`
   - `perform_eda()`
   - `train_models()`
-- **Markdown Explanations:** Each notebook cell included markdown to explain the purpose and outputs of the code.
-- **Inline Comments:** Added comments in the code for clarity, allowing other users to easily understand the workflow.
+- **Markdown Explanations:** Each section of the notebook included markdown to explain the purpose and outputs of the code.
+- **Inline Comments:** Added comments in the code for clarity, making it easier for others to understand the workflow.
 
 ---
 
@@ -128,4 +136,3 @@ The steps followed are outlined below:
   - Predictive modeling of future prevalence.
 - Evaluation metrics confirmed model reliability.
 - Innovation (custom risk score, ensemble model, AI visuals) added unique value to the analysis.
-
