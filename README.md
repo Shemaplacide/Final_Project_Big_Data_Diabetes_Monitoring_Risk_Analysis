@@ -215,19 +215,98 @@ importances = rf_model.feature_importances_
 
 ## **Part 3: Power BI Dashboard** 📊
 
-*(Content unchanged from your original markdown)*
+### **3.1 Dashboard Structure**
+
+* Interactive dashboard with Year, Gender, and Risk Level slicers.
+* Drill-down and AI visuals included.
+
+**🖼 Image – Power BI Dashboard Structure**
+
+<img width="571" height="312" alt="Part 3 Power BI Dashboard Structure (3)" src="https://github.com/user-attachments/assets/5f9437e9-89eb-4f43-8e6c-c06d2ff8aea4" />
+
+---
+
+### **3.2 Global Diabetes Monitoring & Risk Analysis (1990–2022)** 🌍
+
+* Trends in diabetes prevalence and treatment coverage.
+* Gender-based comparisons and risk clusters.
+
+**🖼 Image – Global Trend Chart**
+
+<img width="500" height="267" alt="Global trend" src="https://github.com/user-attachments/assets/9c9afcef-6f5c-43c8-b152-ab8c03cad373" />
+
+**🖼 Image – Part 3 Global Diabetes Monitoring & Risk Analysis (1990–2022)**
+
+<img width="585" height="329" alt="Part 3 Global Diabetes Monitoring   Risk Analysis (1990-2022)" src="https://github.com/user-attachments/assets/8696e669-23b1-4d05-b732-686ba48b928e" />
+
+---
+
+### 🚀 Innovation in Power BI Dashboard
+
+**Feature Used: Smart Narrative (AI Visual)**
+Automatically generates **data-driven summaries** of trends and patterns in diabetes prevalence and treatment coverage.
+
+**Why It Matters:**
+
+* Reduces manual explanation
+* Helps non-technical users understand insights quickly
+* Updates automatically when slicers or filters are changed
+
+**Example Smart Narrative Output:**
+
+> "From 1990 to 2022, diabetes prevalence increased significantly. The year 2022 had the highest recorded prevalence. Males consistently showed higher rates than females. Risk levels shifted from low to high, especially after 2005."
+
+---
+
+### **3.3 Key Findings (from EDA + ML)** 📈
+
+* Diabetes prevalence tripled since 1990.
+* Men show slightly higher prevalence than women.
+* Treatment coverage improved but remains under 50%.
+* Risk clustering shows high-risk years increasing.
+
+**🖼 Image – Risk Level Distribution**
+
+<img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage" src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
+
+---
+
+### **Power BI Visuals Access** 📁
+
+Due to large file sizes, visuals are stored in Google Drive:
+[View Power BI Visuals](https://drive.google.com/drive/folders/1ooPgSdl84ZJ1eZ1fWkBAWivKnEx0fVcf?usp=drive_link)
 
 ---
 
 ## **Part 4: Submission & Communication** 📤
 
-*(Content unchanged from your original markdown)*
+* **GitHub Repository:** Structured folders (data, notebooks, models, dashboard, docs).
+* **PowerPoint Presentation:** Introduction, methods, results, and recommendations.
+
+  * [View PowerPoint](https://docs.google.com/presentation/d/1tpPkm4ouUMJ5j2fuXFrhY-X9NtyHOXZD/edit?usp=sharing&ouid=101928335647300964929&rtpof=true&sd=true)
+
+---
+
+## **Why This Project Matters** 💡
+
+* Helps health policy makers focus resources where needed.
+* Uses big data analytics to predict and monitor diabetes risk.
+* Adds innovation with a custom risk score and ensemble modeling.
+* Provides an interactive dashboard for decision-makers.
 
 ---
 
 ## **Acknowledgment** 🙏
 
 Thanks to **Instructor: Maniraguha Eric** for guidance in the **Introduction to Big Data Analytics** course.
+
+---
+
+## **How to Run** 🖥
+
+1. Clone this repository.
+2. Open Python notebooks under `/notebooks`.
+3. Open `Diabetes_Risk_Analysis.pbix` in Power BI Desktop.
 
 ---
 
