@@ -134,14 +134,13 @@ y_pred = model.predict(X)
 rmse = mean_squared_error(y, y_pred, squared=False)
 ```
 
-**🖼 Image – Clustering Visualization** 
+**🖼 Image – Clustering Visualization**
 
 <img width="369" height="362" alt="Part 2 3 2 Trained both models (Clustering + Regression)" src="https://github.com/user-attachments/assets/34aeba50-0cee-4eab-be67-6032dfd68fd8" />
 
 **🖼 Image – Regression Prediction Plot**
 
 <img width="431" height="273" alt="Part 2 6 1 Incorporate Innovation Ensemble Technique for Prediction (2)" src="https://github.com/user-attachments/assets/ac0a4939-df5c-40e3-a83b-76acf376bc2e" />
-
 
 ---
 
@@ -167,9 +166,7 @@ rf_model.fit(X, y)
 importances = rf_model.feature_importances_
 ```
 
-
 **🖼 Image – Random Forest Feature Importance**
-
 
 <img width="447" height="406" alt="Part 2 3 Pairplot – explores multi-variable relationships and gender separation" src="https://github.com/user-attachments/assets/32c91d91-ebd5-4e94-92e6-93db5a247374" />
 
@@ -181,10 +178,8 @@ importances = rf_model.feature_importances_
 
 * Interactive dashboard with Year, Gender, and Risk Level slicers.
 * Drill-down and AI visuals included.
-  
 
 **🖼 Image – Power BI Dashboard Structure**
-
 
 <img width="571" height="312" alt="Part 3 Power BI Dashboard Structure (3)" src="https://github.com/user-attachments/assets/5f9437e9-89eb-4f43-8e6c-c06d2ff8aea4" />
 
@@ -194,37 +189,53 @@ importances = rf_model.feature_importances_
 
 * Trends in diabetes prevalence and treatment coverage.
 * Gender-based comparisons and risk clusters.
-  
 
 **🖼 Image – Global Trend Chart**
 
-
 <img width="500" height="267" alt="Global trend" src="https://github.com/user-attachments/assets/9c9afcef-6f5c-43c8-b152-ab8c03cad373" />
 
-
-**🖼 Image – Part 3 Global Diabetes Monitoring & Risk Analysis (1990–2022)** 
-
+**🖼 Image – Part 3 Global Diabetes Monitoring & Risk Analysis (1990–2022)**
 
 <img width="585" height="329" alt="Part 3 Global Diabetes Monitoring   Risk Analysis (1990-2022)" src="https://github.com/user-attachments/assets/8696e669-23b1-4d05-b732-686ba48b928e" />
 
+---
+
+### 🚀 Innovation in Power BI Dashboard
+
+As part of adding **advanced features** to the Power BI dashboard, I integrated interactive and intelligent tools that go beyond traditional charts. This helps make the data exploration more dynamic and user-friendly for decision-makers.
+
+#### ✅ Feature Used: Smart Narrative (AI Visual)
+
+I implemented the **Smart Narrative** AI visual in Power BI to automatically generate **data-driven summaries** based on underlying charts and calculations. This feature uses **artificial intelligence** to detect insights and patterns (e.g., average prevalence, top risk years, gender differences) and present them in clear, human-readable language.
+
+**🔍 Why It Matters:**
+
+* It reduces manual explanation.
+* Helps non-technical users understand trends quickly.
+* Automatically updates when slicers or filters are changed.
+
+**📌 How It Was Used:**
+
+* Placed the Smart Narrative visual on the **Insights Summary page**.
+* It provides real-time interpretation of trends in diabetes prevalence, treatment coverage, and risk level.
+* Works with slicers (Year, Gender, Risk Level) to deliver **context-aware summaries**.
+
+**🧠 Example Smart Narrative Output:**
+
+> "From 1990 to 2022, diabetes prevalence increased significantly. The year 2022 had the highest recorded prevalence. Males consistently showed higher rates than females. Risk levels shifted from low to high, especially after 2005."
 
 ---
 
-
 ### **3.3 Key Findings (from EDA + ML)** 📈
-
 
 * Diabetes prevalence tripled since 1990.
 * Men show slightly higher prevalence than women.
 * Treatment coverage improved but remains under 50%.
 * Risk clustering shows high-risk years increasing.
-  
 
 **🖼 Image – Risk Level Distribution**
 
-
 <img width="377" height="376" alt="Part 2 3 1 Clustering (Unsupervised) – to group risk levels based on diabetes prevalence   treatment coverage" src="https://github.com/user-attachments/assets/60649181-10bf-4e9c-b733-0f1f3a9d3ff9" />
-
 
 ---
 
@@ -234,45 +245,3 @@ Due to large file sizes, visuals are stored in Google Drive:
 [View Power BI Visuals](https://drive.google.com/drive/folders/1ooPgSdl84ZJ1eZ1fWkBAWivKnEx0fVcf?usp=drive_link)
 
 ---
-
-## **Part 4: Submission & Communication** 📤
-
-* **GitHub Repository:** Structured folders (data, notebooks, models, dashboard, docs).
-* **PowerPoint Presentation:** Introduction, methods, results, and recommendations.
-
-  * [View PowerPoint](https://docs.google.com/presentation/d/1tpPkm4ouUMJ5j2fuXFrhY-X9NtyHOXZD/edit?usp=sharing&ouid=101928335647300964929&rtpof=true&sd=true)
-
----
-
-## **Why This Project Matters** 💡
-
-* Helps health policy makers focus resources where needed.
-* Uses big data analytics to predict and monitor diabetes risk.
-* Adds innovation with a custom risk score and ensemble modeling.
-* Provides an interactive dashboard for decision-makers.
-
----
-
-## **Acknowledgment** 🙏
-
-Thanks to **Instructor: Maniraguha Eric** for guidance in the **Introduction to Big Data Analytics** course.
-
----
-
-## **How to Run** 🖥
-
-1. Clone this repository.
-2. Open Python notebooks under `/notebooks`.
-3. Open `Diabetes_Risk_Analysis.pbix` in Power BI Desktop.
-
----
-
-## ✅ Conclusion
-
-This project demonstrated how Big Data Analytics can be harnessed to monitor, understand, and forecast diabetes trends across the globe.
-By combining statistical analysis, machine learning, and powerful visualization tools, we identified key risk patterns and gaps in treatment coverage.
-These insights not only reveal alarming trends but also emphasize the urgency for targeted public health interventions.
-
-Ultimately, this work highlights the potential of data-driven approaches in transforming healthcare monitoring and decision-making.
-
-
