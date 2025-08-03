@@ -4,23 +4,27 @@ This section outlines how the final project is structured, documented, and commu
 
 ---
 
-## 1. GitHub Repository
+## 1. GitHub Repository & Data Access
 
 ### Objective:
-Provide a centralized and well-documented location for all project files.
+Provide a centralized and well-documented location for all project files and data.
 
 ### Actions Performed:
 - **Repository Structure**:
-  - **/data**: Contains the raw dataset (`NCD_RisC_Lancet_2024_Diabetes_crude_world.csv`) and cleaned dataset (`Cleaned_Diabetes_World.csv`).
+  - **/data**: Contains:
+    - Raw dataset (`NCD_RisC_Lancet_2024_Diabetes_crude_world.csv`)  
+    - Cleaned dataset (`Cleaned_Diabetes_World.csv`)
   - **/notebooks**: Includes Jupyter notebooks for Python analysis (data cleaning, EDA, machine learning, and innovation).
   - **/models**: Stores trained machine learning models (e.g., Random Forest and Regression models).
   - **/visualizations**: Contains exported images of Power BI charts and other EDA visuals.
   - **/dashboard**: Includes the Power BI file (`Diabetes_Risk_Analysis.pbix`).
   - **/docs**: Project documentation (markdown reports and exported PDF of the PowerPoint slides).
 - **README File**:
-  - Provided an overview of the project objective and scope.
-  - Included setup instructions for running Python notebooks and loading the Power BI dashboard.
-  - Added screenshots of the dashboard and key visualizations for quick preview.
+  - Overview of the project objective and scope.
+  - Setup instructions for running Python notebooks and loading the Power BI dashboard.
+  - Screenshots of the dashboard and key visualizations for quick preview.
+- **Data & Cleaned Data Link**:  
+  [View Datasets Folder (Raw & Cleaned Data)](https://drive.google.com/drive/folders/1AzKX1xPc_CjSpqP0ApjFuCiIPkECoz5F?usp=drive_link)
 - **Version Control**:
   - Used Git to track changes, ensuring reproducibility and collaboration readiness.
 
