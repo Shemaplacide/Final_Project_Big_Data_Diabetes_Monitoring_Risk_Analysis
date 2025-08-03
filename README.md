@@ -245,3 +245,47 @@ Due to large file sizes, visuals are stored in Google Drive:
 [View Power BI Visuals](https://drive.google.com/drive/folders/1ooPgSdl84ZJ1eZ1fWkBAWivKnEx0fVcf?usp=drive_link)
 
 ---
+
+
+
+---
+
+## **Part 4: Submission & Communication** 📤
+
+* **GitHub Repository:** Structured folders (data, notebooks, models, dashboard, docs).
+* **PowerPoint Presentation:** Introduction, methods, results, and recommendations.
+
+  * [View PowerPoint](https://docs.google.com/presentation/d/1tpPkm4ouUMJ5j2fuXFrhY-X9NtyHOXZD/edit?usp=sharing&ouid=101928335647300964929&rtpof=true&sd=true)
+
+---
+
+## **Why This Project Matters** 💡
+
+* Helps health policy makers focus resources where needed.
+* Uses big data analytics to predict and monitor diabetes risk.
+* Adds innovation with a custom risk score and ensemble modeling.
+* Provides an interactive dashboard for decision-makers.
+
+---
+
+## **Acknowledgment** 🙏
+
+Thanks to **Instructor: Maniraguha Eric** for guidance in the **Introduction to Big Data Analytics** course.
+
+---
+
+## **How to Run** 🖥
+
+1. Clone this repository.
+2. Open Python notebooks under `/notebooks`.
+3. Open `Diabetes_Risk_Analysis.pbix` in Power BI Desktop.
+
+---
+
+## ✅ Conclusion
+
+This project demonstrated how Big Data Analytics can be harnessed to monitor, understand, and forecast diabetes trends across the globe.
+By combining statistical analysis, machine learning, and powerful visualization tools, we identified key risk patterns and gaps in treatment coverage.
+These insights not only reveal alarming trends but also emphasize the urgency for targeted public health interventions.
+
+Ultimately, this work highlights the potential of data-driven approaches in transforming healthcare monitoring and decision-making.
